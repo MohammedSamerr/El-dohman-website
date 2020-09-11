@@ -1,0 +1,78 @@
+.contactus h1
+{
+    text-align: center;
+    font-weight: bold;
+    color: #ab372c;
+    font-family: 'Orbitron', sans-serif;
+}
+.text1
+{
+    width: 530px;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 50px;
+}
+.text2
+{
+    width: 500px;
+}
+.mapouter
+{
+    position:relative;
+    text-align:right;
+    height:500px;
+    width:1349px;
+}
+.gmap_canvas 
+{
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:1349px;
+}
+/* Start section contact */
+
+.contact{
+    padding-top: 60px;
+    background: url(../img/map-image.jpg) no-repeat center center fixed #000;
+    min-height: 600px;
+}
+.contact h2{
+    color: #ab372c;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold ;
+}
+.contact p{
+    color: #868e96;
+}
+
+.contact textarea{
+   height: 246px;
+    margin-bottom: 60px!important;
+}
+.contact .form-control{
+    margin-bottom: 15px;
+}
+.contact #bot{
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+.contact .form-control{
+    margin-top: 20px; 
+}
+.text{
+    margin-top: 150px;
+}
+
+.contact .ERROR{
+    color: red;
+    visibility: hidden;
+}
+/* End section contact */
+
+.b2
+{
+    margin-left: 0px;
+    margin-top: 0;
+}
